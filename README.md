@@ -1,4 +1,4 @@
-### Hi there 👋  
+### Hi ,Lakshya Dhariwal here
 
 - 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning python
