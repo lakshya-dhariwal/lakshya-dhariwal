@@ -1,7 +1,7 @@
 ### Hi ,[Lakshya Dhariwal](https://lakshya125.github.io) here
 
 - :computer: My Website :[lakshya125.github.io](https://lakshya125.github.io)
-- :chat_box : My linkedin :[Lakshya Dhariwal](https://www.linkedin.com/in/lakshya-dhariwal-51a7411b6)
+- :speech_balloon : My linkedin :[Lakshya Dhariwal](https://www.linkedin.com/in/lakshya-dhariwal-51a7411b6)
 - :book: I’m currently learning python and MySQL
 - :speech_balloon:  I'm interested in web development
 - 📫 Reach me at : lakshyadhariwal125@gmail.com 
