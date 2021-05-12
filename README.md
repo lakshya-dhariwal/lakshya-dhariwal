@@ -1,6 +1,6 @@
-### Hi ,[Lakshya Dhariwal](https://lakshya125.github.io) here
+### Hi ,[Lakshya Dhariwal](https://lakshya-dhariwal.github.io) here
 
-- :computer: My Website :[lakshya125.github.io](https://lakshya125.github.io)
+- :computer: My Website :[lakshya125.github.io](https://lakshya-dhariwal.github.io)
 - :speech_balloon: My linkedin :[Lakshya Dhariwal](https://www.linkedin.com/in/lakshya-dhariwal-51a7411b6)
 - :book: I’m currently learning python and MySQL
 - :speech_balloon:  I'm interested in web development
@@ -11,5 +11,5 @@
 
 
 
-[![Lakshya's github stats](https://github-readme-stats.vercel.app/api?username=lakshya125)](https://github.com/lakshya125/github-readme-stats)
+[![Lakshya's github stats](https://github-readme-stats.vercel.app/api?username=lakshya-dhariwal)](https://github.com/lakshya-dhariwal/github-readme-stats)
 
