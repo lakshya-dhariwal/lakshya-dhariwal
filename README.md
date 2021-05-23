@@ -9,3 +9,5 @@
 
 [![Lakshya's github stats](https://github-readme-stats.vercel.app/api?username=lakshya-dhariwal)](https://github.com/lakshya-dhariwal/github-readme-stats)
 
+
+![Visitor Count](https : //profile-counter.glitch.me/{lakshya-dhariwal/count.svg
