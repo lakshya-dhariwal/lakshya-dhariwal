@@ -12,3 +12,8 @@
 ---
 Visits:
 ![Visitor Count](https://profile-counter.glitch.me/lakshya-dhariwal/count.svg)
+
+
+---
+Listen with me
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/ghsnyoehnvg8axcf5nbocdq6z)
