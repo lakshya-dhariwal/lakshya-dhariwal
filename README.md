@@ -1,4 +1,4 @@
-![svg](top-wave.png)
+![img](top-wave.png)
 ### Hi ,[Lakshya Dhariwal](https://lakshya-dhariwal.github.io) here
 - 🕸️ [Website](https://lakshya-dhariwal.github.io) 
 - 📫 mail lakshyadhariwal125@gmail.com
@@ -18,4 +18,5 @@ Visits:
 ---
 Listen with me
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/ghsnyoehnvg8axcf5nbocdq6z)
-![svg](bottom-wave.png)
+
+![img](bottom-wave.png)
