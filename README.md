@@ -6,7 +6,7 @@
 ---
 ## Skills
 - React
-- SCSS
+- SASS/SCSS
 - Javascript
 - Git
 
