@@ -9,7 +9,7 @@
 - SASS/SCSS
 - Javascript
 - Git
-
+![img](prj-demo.png)
 
 
 [![Lakshya's github stats](https://github-readme-stats.vercel.app/api?username=lakshya-dhariwal)](https://github.com/lakshya-dhariwal/github-readme-stats)
