@@ -1,5 +1,6 @@
-![img](top-wave.png)
-### Hi ,[Lakshya Dhariwal](https://lakshya-dhariwal.github.io) here
+
+### Hi 👋 [Lakshya Dhariwal](https://lakshya-dhariwal.github.io) here
+- 🐦 [Twitter](https://twitter.com/Lakshya_OnALoop)
 - 📫 mail lakshyadhariwal125@gmail.com
 - :speech_balloon: My linkedin :[Lakshya Dhariwal](https://www.linkedin.com/in/lakshya-dhariwal-51a7411b6)
 - ⚡ May the Source be with you ! 
@@ -23,4 +24,3 @@ Visits:
 Listen with me
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/ghsnyoehnvg8axcf5nbocdq6z)
 
-![img](bottom-wave.png)
