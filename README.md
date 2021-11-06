@@ -10,17 +10,15 @@
 - SASS/SCSS
 - Javascript
 - Git
+---
 ![img](prj-demo.png)
 
-![Lakshya Dhariwalr's github activity graph](https://activity-graph.herokuapp.com/graph?username=lakshya-dhariwal&theme=react-dark)
+![Lakshya Dhariwal's github activity graph](https://activity-graph.herokuapp.com/graph?username=lakshya-dhariwal&theme=react-dark)
 [![Lakshya's github stats](https://github-readme-stats.vercel.app/api?username=lakshya-dhariwal&theme=react-dark)](https://github.com/lakshya-dhariwal/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshya-dhariwal)](https://git.io/streak-stats)
 
 ---
-###Visits:
+## Visits:
 ![Visitor Count](https://profile-counter.glitch.me/lakshya-dhariwal/count.svg)
 
-
----
-Listen with me
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/ghsnyoehnvg8axcf5nbocdq6z)
 
