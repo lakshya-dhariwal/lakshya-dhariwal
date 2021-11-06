@@ -14,7 +14,7 @@
 ![img](prj-demo.png)
 
 ![Lakshya Dhariwal's github activity graph](https://activity-graph.herokuapp.com/graph?username=lakshya-dhariwal&theme=react-dark)
-[![Lakshya's github stats](https://github-readme-stats.vercel.app/api?username=lakshya-dhariwal&theme=react-dark&theme=react)](https://github.com/lakshya-dhariwal/github-readme-stats)
+[![Lakshya's github stats](https://github-readme-stats.vercel.app/api?username=lakshya-dhariwal&theme=react-dark&theme=prussian)](https://github.com/lakshya-dhariwal/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshya-dhariwal&theme=prussian)](https://git.io/streak-stats)
 
 ---
