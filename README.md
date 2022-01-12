@@ -7,9 +7,10 @@
 ---
 ## Skills
 - React
-- SASS
 - TailwindCSS
+- SASS/SCSS
 - Javascript
+- NodeJS
 ---
 
 
