@@ -8,7 +8,6 @@
 ## Skills
 - React
 - TailwindCSS
-- SASS/SCSS
 - Javascript
 - NodeJS
 
