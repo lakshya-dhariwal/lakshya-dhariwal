@@ -12,7 +12,7 @@
 
 <p align="center">
          <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=lakshya-dhariwal&count_private=true&theme=radical&show_icons=true" />
-        <img alt= "stats card" height="200px" width="400" src="http://github-readme-streak-stats.herokuapp.com?user=lakshya-dhariwal&theme=radical">
+        <img alt= "stats card" height="200px" width="400" src="http://github-readme-streak-stats.herokuapp.com?user=lakshya-dhariwal&theme=radical&show_icons=true">
 <p>
 <hr>
 <br/>
@@ -22,15 +22,13 @@
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="mailto:lakshyadhariwal9@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-        <a href="https://medium.com/@invinciblezeal" target="_blank"><img alt="Medium"
-                src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-        <a href="https://twitter.com/Lakshya_OnALoop"><img alt="Twitter"
+        <a href="https://twitter.com/Lakshya_OnALoop" target="_blank"><img alt="Twitter"
                 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 <br/><br/>
 
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=lakshya-dhariwal&label=Profile%20views&color=blueviolet&style=flat" alt="lakshya-dhariwal" /> 
+             <img src="https://profile-counter.glitch.me/lakshya-dhariwal/count.svg" alt="lakshya-dhariwal" /> 
 </p>
 <h5 align="center">⚡ May the Source be with you !</h5>
 
