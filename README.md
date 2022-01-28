@@ -9,13 +9,13 @@
 <p align="center">
     Working with React/Redux , NodeJS/Express , TailwindCSS , SASS
 </p>
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=lakshya-dhariwal&label=Profile%20views&color=purple&style=flat" alt="lakshya-dhariwal" /> 
-</p>
-<p>
-    <a align= "center" href="https://github.com/lakshya-dhariwal">
+
+<p align="center">
+         <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=lakshya-dhariwal&count_private=true&theme=radical&show_icons=true" />
         <img alt= "stats card" height="200px" width="400" src="http://github-readme-streak-stats.herokuapp.com?user=lakshya-dhariwal&theme=radical">
+<p>
 <hr>
+<br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/lakshya-dhariwal/" target="_blank"><img alt="LinkedIn"
@@ -27,19 +27,19 @@
         <a href="https://twitter.com/Lakshya_OnALoop"><img alt="Twitter"
                 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
+<br/><br/>
 
-<hr>
-
-<p align="center">
-  <img src="https://github.com/lakshya-dhariwal/lakshya-dhariwal/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=lakshya-dhariwal&label=Profile%20views&color=blueviolet&style=flat" alt="lakshya-dhariwal" /> 
 </p>
+<h5 align="center">⚡ May the Source be with you !</h5>
 
--- 
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=lakshya-dhariwal&count_private=true&theme=radical&show_icons=true" />
-    </a>
+ 
 
 
- <h5 align="center">⚡ May the Source be with you !</h5>
+
+
+ 
 
 
 
