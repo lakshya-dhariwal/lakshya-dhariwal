@@ -9,13 +9,12 @@
 <p align="center">
     Working with React/Redux , NodeJS/Express , TailwindCSS , SASS
 </p>
-
+<br/>
 <p align="center">
          <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=lakshya-dhariwal&count_private=true&theme=radical&show_icons=true" />
         <img alt= "stats card" height="200px" width="400" src="http://github-readme-streak-stats.herokuapp.com?user=lakshya-dhariwal&theme=radical&show_icons=true">
 <p>
-<hr>
-<br/>
+<br/><br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/lakshya-dhariwal/" target="_blank"><img alt="LinkedIn"
@@ -25,10 +24,9 @@
         <a href="https://twitter.com/Lakshya_OnALoop" target="_blank"><img alt="Twitter"
                 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
-<br/><br/>
-
-<p align="left"> 
-             <img src="https://profile-counter.glitch.me/lakshya-dhariwal/count.svg" alt="lakshya-dhariwal" /> 
+<p align="center"> 
+         <p> Visits: 
+             <img fill="#B98FFF" src="https://profile-counter.glitch.me/lakshya-dhariwal/count.svg" alt="lakshya-dhariwal" /> </p>
 </p>
 <h5 align="center">⚡ May the Source be with you !</h5>
 
