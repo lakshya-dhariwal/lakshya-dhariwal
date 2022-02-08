@@ -11,9 +11,9 @@
 </h3>
 <br/>
 <p align="center">
-         <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=lakshya-dhariwal&count_private=true&theme=radical&show_icons=true" />
+         <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=lakshya-dhariwal&count_private=true&theme=radical&show_icons=true&count_private=true&hide_border=true" />
         <img alt= "stats card" height="200px" width="400" src="http://github-readme-streak-stats.herokuapp.com?user=lakshya-dhariwal&theme=radical&show_icons=true">
-          <img alt= "stats card" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya-dhariwal&langs_count=5&theme=radical">
+          <img alt= "stats card" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya-dhariwal&langs_count=5&theme=radical&layout=compact">
          
 
 <p>
