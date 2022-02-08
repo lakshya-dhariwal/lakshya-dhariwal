@@ -14,6 +14,7 @@
          <img height="150px" width="300" src="https://github-readme-stats.vercel.app/api?username=lakshya-dhariwal&count_private=true&theme=radical&show_icons=true&count_private=true&hide_border=true" />
         <img alt= "stats card" height="150px" width="300" src="http://github-readme-streak-stats.herokuapp.com?user=lakshya-dhariwal&theme=radical&show_icons=true&count_private=true&hide_border=true">
           <img alt= "stats card" height="150px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya-dhariwal&langs_count=5&theme=radical&layout=compact&count_private=true&hide_border=true">
+          <img alt= "stats card" height="150px" width="300px" src="https://github-readme-stats.vercel.app/api/wakatime?username=lakshya-dhariwal&theme=radical&layout=compact&count_private=true&hide_border=true">
          
 
 <p>
@@ -26,6 +27,7 @@
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
         <a href="https://twitter.com/Lakshya_OnALoop" target="_blank" rel="noopener"><img alt="Twitter"
                 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+         
 </p>
 
 <h5 align="center">⚡ May the Source be with you !</h5>
