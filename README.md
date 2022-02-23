@@ -11,11 +11,8 @@
 </h3>
 <br/>
 <p align="center">
-         <img height="150px" width="300" src="https://github-readme-stats.vercel.app/api?username=lakshya-dhariwal&count_private=true&theme=radical&show_icons=true&count_private=true&hide_border=true" />
-        <img alt= "stats card" height="150px" width="300" src="http://github-readme-streak-stats.herokuapp.com?user=lakshya-dhariwal&theme=radical&show_icons=true&count_private=true&hide_border=true">
-          <img alt= "stats card" height="150px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya-dhariwal&langs_count=5&theme=radical&layout=compact&count_private=true&hide_border=true">
-          
-         
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshya-dhariwal&theme=dracula" />
+        <img alt= "stats card" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lakshya-dhariwal&theme=dracula">
 
 <p>
 <br/><br/>
