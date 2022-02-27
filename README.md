@@ -7,7 +7,7 @@
 👷‍♂️ Building things for the web 🕸
 </h4>
 <h3 align="center">
-    Working with React/Redux , NodeJS/Express , TailwindCSS , SASS
+    Working with React/Redux , NextJS , NodeJS/Express , TailwindCSS 
 </h3>
 <br/>
 <p align="center">
