@@ -12,7 +12,7 @@
 <div align="center">
          
 |🚀  Project                                                                                             | 📚 Tech Stack                           |
-|:-------------------------------------------------------------------------------------------------------:|:--------------------------------------:|
+|-------------------------------------------------------------------------------------------------------|--------------------------------------|
 | [Find Your Sound](https://github.com/lakshya-dhariwal/find-your-sound)                                | React, Spotify Auth, JS, TailwindCSS |
 | [Internal College Club Portal](https://vimeo.com/680907687)<br>for [srmkzilla](http://github.com/srm-kzilla)  | Next.js, Typescript, TailwindCSS     |
          
