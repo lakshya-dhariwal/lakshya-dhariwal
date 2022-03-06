@@ -9,7 +9,7 @@
 <h3 align="center">
     Working with React/Redux , NextJS , NodeJS/Express , TailwindCSS 
 </h3>
-<p align="center">
+<center>
 
 | Project 🚀                                                                                             | Tech Stack                           |
 |-------------------------------------------------------------------------------------------------------|--------------------------------------|
@@ -17,7 +17,7 @@
 | [Internal Club Portal](https://vimeo.com/680907687)<br>for [srmkzilla](http://github.com/srm-kzilla)  | Next.js, Typescript, TailwindCSS     |
 
 
-</p>
+</center>
 <br/>
 <p align="center">
          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshya-dhariwal&theme=dracula" />
