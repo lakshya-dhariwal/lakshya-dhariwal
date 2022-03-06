@@ -9,6 +9,14 @@
 <h3 align="center">
     Working with React/Redux , NextJS , NodeJS/Express , TailwindCSS 
 </h3>
+
+| Project 🚀                                                                                             | Tech Stack                           |
+|-------------------------------------------------------------------------------------------------------|--------------------------------------|
+| [Find Your Sound](https://github.com/lakshya-dhariwal/find-your-sound)                                | React, Spotify Auth, JS, TailwindCSS |
+| [Internal Club Portal](https://vimeo.com/680907687)<br>for [srmkzilla](http://github.com/srm-kzilla)  | Next.js, Typescript, TailwindCSS     |
+|                                                                                                       |                                      |
+
+
 <br/>
 <p align="center">
          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshya-dhariwal&theme=dracula" />
