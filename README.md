@@ -10,10 +10,12 @@
     Working with React/Redux , NextJS , NodeJS/Express , TailwindCSS 
 </h3>
 <center>
+         
 | Project 🚀                                                                                             | Tech Stack                           |
 |-------------------------------------------------------------------------------------------------------|--------------------------------------|
 | [Find Your Sound](https://github.com/lakshya-dhariwal/find-your-sound)                                | React, Spotify Auth, JS, TailwindCSS |
 | [Internal Club Portal](https://vimeo.com/680907687)<br>for [srmkzilla](http://github.com/srm-kzilla)  | Next.js, Typescript, TailwindCSS     |
+         
 </center>
 <br/>
 <p align="center">
