@@ -13,8 +13,8 @@
          
 |🚀  Project                                                                                             | 📚 Tech Stack                           |
 |-------------------------------------------------------------------------------------------------------|--------------------------------------|
-| [Find Your Sound](https://github.com/lakshya-dhariwal/find-your-sound)  Streamline the process from discovery of music to addition to your library.                              | React, Spotify WebAPI & Auth, JS, TailwindCSS |
-| [Circle](https://your-circle.co)<br> connecting Peers, Projects and Mentors | Next.js, Typescript, TailwindCSS     |
+| [Find Your Sound](https://github.com/lakshya-dhariwal/find-your-sound): Streamline the process from discovery of music to addition to your library.                              | React, Spotify WebAPI & Auth, JS, TailwindCSS |
+| [Circle](https://your-circle.co): Connecting Peers, Projects and Mentors | Next.js, Typescript, TailwindCSS     |
 | [Internal College Club Portal](https://vimeo.com/680907687)<br>for [srmkzilla](http://github.com/srm-kzilla)  | Next.js, Typescript, TailwindCSS     |
          
 </div>
