@@ -14,6 +14,7 @@
 |🚀  Project                                                                                             | 📚 Tech Stack                           |
 |-------------------------------------------------------------------------------------------------------|--------------------------------------|
 | [Find Your Sound](https://github.com/lakshya-dhariwal/find-your-sound): Streamline the process from discovery of music to addition to your library.                              | React, Spotify WebAPI & Auth, JS, TailwindCSS |
+| [react-hot-carousel](https://github.com/lakshya-dhariwal/react-hot-carousel)  | Typescript, ReactJS   |
 | [Circle](https://your-circle.co): Connecting Peers, Projects and Mentors | Next.js, Typescript, TailwindCSS     |
 | [Internal Event management Portal](https://vimeo.com/680907687)<br>for [srmkzilla](http://github.com/srm-kzilla)  | Next.js, Typescript, TailwindCSS     |
          
