@@ -16,7 +16,7 @@
 | [Find Your Sound](https://github.com/lakshya-dhariwal/find-your-sound): Streamline the process from discovery of music to addition to your library.                              | React, Spotify WebAPI & Auth, JS, TailwindCSS |
 | [react-hot-carousel](https://github.com/lakshya-dhariwal/react-hot-carousel) A carousel component that renders anything given between the tags, be it an image, text or a custom JSX element!| Typescript, ReactJS   |
 | [Circle](https://your-circle.co): Connecting Peers, Projects and Mentors | Next.js, Typescript, TailwindCSS     |
-| [PeerCode](https://peer-code.vercel.app) | Next.js, Typescript, TailwindCSS     |
+| [PeerCode](https://peer-code.vercel.app): Collaborate together with realtime tools | Next.js, Typescript, TailwindCSS     |
          
 </div>
 <br/>
