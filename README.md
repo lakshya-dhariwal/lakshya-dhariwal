@@ -34,7 +34,7 @@
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="mailto:lakshyadhariwal9@gmail.com"target="_blank" rel="noopener"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-        <a href="https://twitter.com/Lakshya_OnALoop" target="_blank" rel="noopener"><img alt="Twitter"
+        <a href="https://twitter.com/lakshyastwt" target="_blank" rel="noopener"><img alt="Twitter"
                 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
          
 </p>
