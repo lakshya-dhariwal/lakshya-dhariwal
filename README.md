@@ -36,7 +36,11 @@
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
         <a href="https://twitter.com/lakshyastwt" target="_blank" rel="noopener"><img alt="Twitter"
                 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-         
+          <a href="https://drive.google.com/file/d/15f2CpO9LIeIr4IrdSGtPmplLHBDXiYq4/view?usp=sharing" target="_blank" rel="noopener"><img alt="resume"
+                src="https://img.shields.io/badge/Resume-blue"></a>
+
+                
+
 </p>
 
 <h5 align="center">⚡ May the Source be with you !</h5>
