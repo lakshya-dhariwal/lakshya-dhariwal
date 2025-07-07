@@ -18,7 +18,7 @@
 
 * **15+ Hackathon wins** – always up to brainstorm ideas and ship fast.
 * **Multiple 0 to 1 roles at startups** – jumped in from the ground up to shape new products.
-* **Freelance developer** – love building and turning fresh ideas into tangible tech, be it web, ai or crypto.
+* **IndieHacker and Freelance developer** – love building and turning fresh ideas into tangible tech, be it web, ai or crypto.
 * **Skillset:** JS/TS, Remix, React.js, NextJS, NestJS, Node.js, Express, Web3, AI/ML (LLMs, RAG), MongoDB, PostgresSQL, Docker, Cloudflare, AWS, Git, CI/CD.
 
 ---
@@ -49,10 +49,6 @@
 
 ---
 
-<p align="center">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshya-dhariwal&theme=dracula" />
-            <img alt= "stats card" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lakshya-dhariwal&theme=dracula">
-</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
