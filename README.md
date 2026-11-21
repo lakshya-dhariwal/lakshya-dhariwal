@@ -1,63 +1,30 @@
+# hey, I'm Lakshya
 
-<h1 align="center">Hi <img src="wave.gif"
-            alt="Waving hand animated gif"
-            height="45"
-            width="45" />, I'm Lakshya Dhariwal</h1>
-<h4 align="center">
+I build AI that does the boring work. Ship fast, don't break things.
 
-**Software Developer at Mable AI | Building around AI and HCI | prev GenStaq.ai | indie hacker - 15+ Hackathon Wins**
+I run [Boring Agents](https://boringagents.co), a small applied-AI consultancy. We find one repetitive job inside a business (checking shelves, retyping supplier PDFs, answering the 11 pm buyer message), build AI that does it, and wire it into whatever they already use. Then we answer for the numbers. In production with retail, real estate, pharma and distribution brands in Thailand, and consulting across Thailand and the Netherlands.
 
+## stuff I've shipped lately
 
-</h4>
-<h3 align="center"> <a href="https://drive.google.com/file/d/15f2CpO9LIeIr4IrdSGpPmplLHBDXiYq4/view?usp=sharing" target="_blank" rel="noopener"><img alt="resume"
-                 src="https://img.shields.io/badge/Resume-blue"></a></h3>
+- **Retail CCTV analytics.** Footfall, dwell, flow and security alerts on cameras malls already have. Detection, tracking, zone rules, an operator dashboard, and a local LLM that narrates alerts. In private pilots right now.
+- **[CartTrace-100k](https://github.com/generalmachines/cartTrace-100k)** (with General Machines) - 101,416 AI shopping agents sent through real checkouts, plus the kit to replay every journey.
+- **[OpenKT](https://github.com/lakshya-dhariwal/OpenKT-ai)** - a shared brain for teams doing agentic coding: capture, self-maintaining knowledge base, recall over MCP.
+- **[gh-axi](https://github.com/lakshya-dhariwal/gh-axi)** - a GitHub CLI designed for agents, because agents are half my users now.
+- **[jev-buildathon](https://github.com/lakshya-dhariwal/jev-buildathon)** - four imperfect agents, steered into usefulness with evals and policies.
+- **[find-your-sound](https://github.com/lakshya-dhariwal/find-your-sound)** - music discovery, from before everything was agents.
 
----
+## hackathons
 
-### 💡 A Little About Me
+15+ wins. One weekend, one idea, working demo or bust is still my favourite way to build. Recent ones: agentic commerce payments (PayPal), agentic banking (Airwallex), eval-steered support agents (Jev), zero-knowledge event gating (zkMeetup), federated learning with on-chain FHE (FLuFHE).
 
-* **15+ Hackathon wins** – always up to brainstorm ideas and ship fast.
-* **Multiple 0 to 1 roles at startups** – jumped in from the ground up to shape new products.
-* **IndieHacker and Freelance developer** – love building and turning fresh ideas into tangible tech, be it web, ai or crypto.
-* **Skillset:** JS/TS, Remix, React.js, NextJS, NestJS, Node.js, Express, Web3, AI/ML (LLMs, RAG), MongoDB, PostgresSQL, Docker, Cloudflare, AWS, Git, CI/CD.
+## open source
 
----
+I contribute to the agent and LLM tooling I build with: onyx, continue, haystack, litellm, pipecat, langfuse. Merged PRs, not drive-by issues.
 
-### 🚀 Featured Projects
+## work
 
-| 🚀 Project |
-| :------------------------------------------------------------------------------------------------------ |
-| **InsurGPT**: AI-powered chatbot for insurance queries, built with LLMs and RAG. |
-| **zkMeetup**: Privacy-protected and gated event hosting platform using zero-knowledge (ZKP) cryptography. |
-| **FLuFHE**: Improving federated learning with on-chain Fully Homomorphic Encryption (FHE). |
-| **Workfolio**: Decentralized portfolio platform using proof of work for developer bounties. |
-| **Catalyst**: Decentralized community platform to simplify engagement and tracking, built for Aptos IIT Bombay Winter School. |
-| **PeerCode**: Realtime collaborative coding platform with decentralized RTC using Huddle01. |
-| **Find Your Sound**: Streamlines music discovery and library addition. |
-| **react-hot-carousel**: A versatile carousel component for React. |
+Radic.ai (marketing intelligence, ads + ClickHouse) · Mable AI (joined as the only frontend dev, left leading the team) · InsurStaq/GenStaq (founding dev, GenAI copilots for insurance, acquired by RevRag).
 
----
+## say hi
 
-### 💼 Experience
-
-* **Software Developer** at **[Mable AI](https://mable.ai)** (Apr 2025 - Present): Building an AdTech platform to improve conversions for Shopify and destinations like Meta and Google Ads.
-* **Software Developer** at **[GenStaq.ai](https://genstaq.ai)** (Jul 2024 - Sep 2024): Built unified LLMOps and versatile development tools for a plug-and-play experience.
-* **Software Developer (Founding Team)** at **[Insurstaq.ai](https://insurstasq.ai)** (Jan 2023 - Jun 2024): Automated workflows for insurance sales, compliance, and research.
-* **Web Dev Lab Lead** at **Next Tech Lab** (Jul 2022 - Jun 2024): Led the web development division.
-* **Frontend Developer** at  **[ **Ringover France** ](https://ringover.com)** (Dec 2022 - Jan 2023): Created features for Cadence, a sales prospecting platform.
-* **Software Developer Intern** at **[Listnr, Inc.](https://listnr.fm)** (Mar 2022 - Sep 2022): Worked on the listnr.fm and listnr.ai SaaS platforms.
-
----
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/lakshya-dhariwal/" target="_blank" rel="noopener"><img alt="LinkedIn"
-                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:lakshyadhariwal9@gmail.com"target="_blank" rel="noopener"><img alt="Gmail"
-                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-        <a href="https://twitter.com/lakshyastwt" target="_blank" rel="noopener"><img alt="Twitter"
-                 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>    
-</p>
-
-<h5 align="center">⚡ May the Source be with you !</h5>
+lakshyadhariwal9@gmail.com · [LinkedIn](https://www.linkedin.com/in/lakshya-dhariwal/) · [boringagents.co](https://boringagents.co)
