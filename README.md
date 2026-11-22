@@ -11,7 +11,7 @@ AI consultant. I turn messy workflows into software that gets the work done.
 
 ## work
 
-- **Consulting** - supplier-document extraction, sales transcript tools, shopping agents and retail computer vision.
+- **Consulting** - automated inventory system with document processing, computer vision for retail planogram, serviceM8 ai native replacement, sales transcript intelligence, shopping agents.
 - **Radic.ai  - automates marketing, from creative generation to publishing and optimization.
 - **Mable.ai  - improves the conversion signals e-commerce brands send to ad platforms, helping them optimize for profit and new customers.
 - **Insurstaq.ai → GenStaq.ai**  [acquired by RevRag.ai] - joined as a founding-team software developer, working on insurance sales, compliance and research workflows. After the pivot, GenStaq built modular GenAI and LLMOps infrastructure.
