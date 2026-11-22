@@ -7,7 +7,7 @@ AI consultant. I turn messy workflows into software that gets the work done.
 - **FloorSense** - PostHog for the real world: security and analytics from CCTV footage.
 - **Tote** - making stores ready for agentic commerce.
 - **GTM OS** - a repeatable, token-efficient, extensible runtime for GTM.
-- **[OpenKT](https://openkt.ai)** - knowledge transfer for agent-native teams.
+- **OpenKT.ai** - knowledge transfer for agent-native teams.
 
 ## work
 
