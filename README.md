@@ -1,6 +1,7 @@
 # hey, I'm Lakshya
 
 AI consultant. I turn messy workflows into software that gets the work done.
+15+ hackathon wins. Build fast, don't break things.
 
 ## things i have been cooking
 
@@ -16,6 +17,6 @@ AI consultant. I turn messy workflows into software that gets the work done.
 - **Mable.ai  - improves the conversion signals e-commerce brands send to ad platforms, helping them optimize for profit and new customers.
 - **Insurstaq.ai → GenStaq.ai**  [acquired by RevRag.ai] - joined as a founding-team software developer, working on insurance sales, compliance and research workflows. After the pivot, GenStaq built modular GenAI and LLMOps infrastructure.
 
-15+ hackathon wins. Build fast, don't break things.
+
 
 lakshyadhariwal9@gmail.com · [LinkedIn](https://www.linkedin.com/in/lakshya-dhariwal/)
