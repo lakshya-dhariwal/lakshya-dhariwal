@@ -2,7 +2,7 @@
 
 AI consultant. I turn messy workflows into software that gets the work done.
 
-## things i have been working on
+## things i have been cooking
 
 - **FloorSense** - PostHog for the real world: security and analytics from CCTV footage.
 - **Tote** - making stores ready for agentic commerce.
